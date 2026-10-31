@@ -58,7 +58,7 @@ function App() {
        name: car.name,
        manufacturer: car.manufacturer,
        categoryId: car.category_id,
-       bought: car.isBought,
+       bought: car.is_bought,
       }))
   );
 
